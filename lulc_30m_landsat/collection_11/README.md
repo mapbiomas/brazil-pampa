@@ -4,10 +4,6 @@
     <h4 class="author"><em>Developed by  GeoKarten - schirmbeck.j@gmail.com</em></h4>
 </div>
 
-
-Developed by **GeoKarten**  
-📧 **schirmbeck.j@gmail.com**
-
 ---
 
 # About
