@@ -1,4 +1,9 @@
-# Pampa
+﻿<div class="fluid-row" id="header">
+    <img src='./misc/logo_geokarten.png' height='90' width='auto' align='right'>
+    <h1 class="title toc-ignore">Pampa</h1>
+    <h4 class="author"><em>Developed by  GeoKarten - schirmbeck.j@gmail.com</em></h4>
+</div>
+
 
 Developed by **GeoKarten**  
 📧 **schirmbeck.j@gmail.com**
